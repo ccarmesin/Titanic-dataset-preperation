@@ -1,3 +1,4 @@
+![Titanic theme](https://image.brigitte.de/11048874/t/HU/v4/w960/r1.5/-/titanic-untergang.jpg)
 # Titanic-dataset-preperation
 Just a simple script to convert the titanic dataset to a numerical dataset that can be used to train self learning algorithms.
 Trying out first [Kaggle](https://www.kaggle.com/) dataset exploration.
